@@ -24,6 +24,8 @@ body {
 .img2 {
   width: 165px;
   height: 230px;
+  border-radius: 15px;
+  object-fit: contain;
 }
 .container1 {
   display: flex;
